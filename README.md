@@ -1,6 +1,6 @@
 # IBM-5Days-11Jul22-kafka
 
-Open a terminal for each command:
+Open seperate terminal for each command:
 
 To start Zookeeper
 
